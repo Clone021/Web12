@@ -1,0 +1,16 @@
+{
+  "name": "web_to_web",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Sent From Web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "fs": "0.0.1-security",
+    "fca-unofficial": "^2.0.0"
+  },
+  "author": "Satish",
+  "license": "ISC"
+}
